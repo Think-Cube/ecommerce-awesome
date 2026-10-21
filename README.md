@@ -48,6 +48,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Intercom](https://intercom.io/) - A customer messaging platform combining live chat, bots, email campaigns, and help desk tools in one.
 * [HappyFox](https://www.happyfox.com/) - A comprehensive help desk help desk software with ticketing, asset management, automation, and reporting.
 * [Bynevo Labs](https://bynevolabs.com) - Sovereign French AI agent for e-commerce customer support (SAV), self-hosted in France, GDPR-compliant, Mistral-based.
+* [WhatsApp Lead Recovery Calculator](https://testimonioslr-eng.github.io/whatsapp-lead-recovery-kit/calculator.html) - Free, no-signup calculator that estimates recovered revenue from missed WhatsApp inquiries for small e-commerce stores.
 
 ---
 
