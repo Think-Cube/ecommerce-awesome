@@ -348,3 +348,5 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Zakeke](https://www.zakeke.com/) - Product customizer and 3D configurator that enables shoppers to personalize products with live 3D previews.
 * [Augment](https://www.augment.com/) - Augmented reality platform that lets retailers and brands showcase products in real-life environments to enhance buyer confidence.
 * [VNTANA](https://vntana.com/) - 3D commerce platform for streaming, sharing, and integrating 3D product experiences across websites and social media.
+
+- [LandingPixel TikTok Landing Kit](https://www.landingpixel.com/tiktok/) - Practica landing pages y automatizacion de consultas comerciales para negocios que venden por WhatsApp.
