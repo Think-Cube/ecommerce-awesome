@@ -241,6 +241,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [ShipWorks](https://www.shipworks.com/) - Desktop-based shipping software for high-volume merchants, offering batch label printing, custom rules, and multi-carrier support.
 * [Shipwire](https://www.shipwire.com/) - Cloud-based order fulfillment and logistics platform that integrates warehousing, shipping, and global distribution for brands and retailers.
 * [ShipLark](https://www.shiplark.com/) - Order fulfillment software tailored for small and medium e-commerce businesses with QuickBooks integration and real-time shipping updates.
+* [OrderQuill](https://orderquill.com/) - Free, no-signup browser tool that turns Shopify, eBay, Whatnot, Etsy, and WooCommerce order CSV exports into printable 4x6 or A4 packing slips and SKU-grouped pick lists.
 
 ---
 
