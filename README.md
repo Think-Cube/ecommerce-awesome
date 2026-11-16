@@ -188,6 +188,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Crowdfire](https://crowdfireapp.com/) - Social media management tool for scheduling posts, tracking engagement, and growing followers on X and other platforms.
 * [Buffer](https://buffer.com/) - Popular social media scheduling and analytics tool that supports X along with Facebook, Instagram, and LinkedIn.
 * [Xquik](https://xquik.com/) - X automation API for tweet search, user lookup, monitoring, and campaign research workflows.
+* [twtData](https://twtdata.com/) - Exports the followers or following of public X accounts, plus tweets, lists and Spaces, to CSV for audience research and prospect lists.
 
 ---
 
