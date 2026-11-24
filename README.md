@@ -230,6 +230,8 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Segment](https://segment.com/) - Customer data platform that collects, cleans, and routes data to analytics and marketing tools for unified tracking and personalization.
 * [FullStory](https://www.fullstory.com/) - Digital experience analytics platform that records and visualizes user sessions, highlighting friction points and opportunities to improve UX.
 * [Google URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - Tool to generate UTM-tagged URLs for precise campaign tracking in Google Analytics.
+* [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+* [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
 
 ---
 
