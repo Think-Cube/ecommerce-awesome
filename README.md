@@ -251,6 +251,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 
 * [Bonsai](https://www.hellobonsai.com/) - All-in-one freelance platform offering contract templates, time tracking, invoicing, project management, and tax support.
 * [Upwork](https://www.upwork.com/) - Global freelancing marketplace that connects businesses with independent professionals across a wide range of skills and services.
+* [FeeSlate](https://feeslate.com/) - free U.S. marketplace, reselling, and payment fee calculators with reverse pricing and official rate links.
 * [Fiverr](https://www.fiverr.com/) - Marketplace for freelance services where sellers offer predefined gigs in areas like design, writing, marketing, and tech.
 * [Toggl Track](https://toggl.com/track/) - Simple and powerful time tracking tool ideal for freelancers and teams, with detailed reporting and integrations.
 * [Notion](https://www.notion.so/) - All-in-one productivity tool combining notes, docs, databases, and task boards—great for organizing freelance work.
