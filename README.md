@@ -90,6 +90,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Midjourney](https://www.midjourney.com/) – AI image-generation platform for creating marketing visuals, graphics, and creative inspiration.
 * [AdDogs](https://www.addogs.ai) - AI ad creative generator for e-commerce brands. Clones winning ad designs, injects your product photo and brand identity in 10 seconds. 14,000+ curated ad examples across 20 industries.
 * [AdMapix](https://www.admapix.com/) - AI ad creative intelligence platform for e-commerce teams to search competitor ads across major channels and turn creative patterns into research briefs.
+* [Magistry](https://www.magistry.io/) - Agents that run a store's marketing and ads, product feeds, catalog, customer service and reviews from one live data layer, for Shopify, WooCommerce, Shopware, Magento, PrestaShop and Lightspeed. Changes are proposed for approval or applied within limits, logged and undoable. Free plan available.
 
 ---
 
