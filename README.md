@@ -217,6 +217,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Planoly](https://www.planoly.com/) - Visual Instagram planner and scheduler with drag-and-drop grid layout, analytics, and hashtag tools.
 * [Pallyy](https://pallyy.com/) - Instagram-first scheduling and analytics platform with affordable plans, hashtag tools, comment management, and bio link pages.
 * [Linktree](https://linktr.ee/) - Widely used tool to create a mobile-friendly landing page that hosts multiple links from your Instagram bio.
+* [IGDataHub](https://igdatahub.com/) - Free lookup of public Instagram profiles, hashtags and places: stats, engagement metrics and follower history, useful for vetting influencers before a paid post. CSV export is paid.
 
 ---
 
