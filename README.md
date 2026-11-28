@@ -227,6 +227,7 @@ List of popular marketing tools and add-ons which are used by e-commerce stores.
 * [Kissmetrics](https://www.kissmetrics.com/) - Customer-focused analytics tool that tracks user actions over time and helps identify retention drivers and conversion bottlenecks.
 * [Optimizely](https://www.optimizely.com/) - Platform for A/B testing and experimentation that allows marketers to optimize user experiences based on real-time behavior data.
 * [Heap](https://heapanalytics.com/) - Automatic event tracking tool that captures every user interaction without requiring manual tagging, enabling deep behavioral insights.
+* [PixelTrackerTools GTM Purchase Tag Audit](https://pixel-tracker.pixeltrackertools.workers.dev/tools/gtm-purchase-tag-audit) – flags possible duplicate Shopify purchase tags in a GTM export locally in the browser, with no sign-in.
 * [Segment](https://segment.com/) - Customer data platform that collects, cleans, and routes data to analytics and marketing tools for unified tracking and personalization.
 * [FullStory](https://www.fullstory.com/) - Digital experience analytics platform that records and visualizes user sessions, highlighting friction points and opportunities to improve UX.
 * [Google URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) - Tool to generate UTM-tagged URLs for precise campaign tracking in Google Analytics.
